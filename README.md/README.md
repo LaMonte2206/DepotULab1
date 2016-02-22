@@ -1,7 +1,7 @@
-LaMonte
+### LaMonte
 
 
 
-### This is a default section
+## This is a default section
 *Hello*
 **Hello**
